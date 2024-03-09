@@ -221,7 +221,7 @@ color: #FFF;
         
     
 }
-.button{
+.button {
     display: flex;
         justify-content: center;
         align-items: center;
@@ -326,7 +326,6 @@ svg.advants {
 .team-photos {
     display: flex;
     gap: 30px;
-
 }
 
 .team-photos-article h3 {
@@ -355,6 +354,13 @@ color: var(--text-color);
     gap: 24px;
     justify-content: center;
     margin-bottom: 32px;
+    background-color: var(--bg-color);
+}
+.team-photos-article {
+    background-color: #FFF;
+}
+.social-items{
+    background-color: #FFF;
 }
 
 .team-photo{
@@ -478,7 +484,6 @@ color: var(--text-color);
         border-radius: 4px;
         color: #AFB1B8;
 }
-   
 
 .client-link:hover,
 .client-link:focus {
