@@ -176,6 +176,15 @@ text-decoration: none;
 .contacts-ul li a:focus {
 color: var(--line-color);
 }
+.contacts-item-mail:hover,
+.contacts-item-mail:focus {
+    color: var(--line-color);
+}
+
+.contacts-item-tel:hover,
+.contacts-item-tel:focus {
+    color: var(--line-color);
+}
 
 .svg.contact-icon {
     margin-right: 10px;
