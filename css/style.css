@@ -189,9 +189,12 @@ color: var(--line-color);
 .svg.contact-icon {
     margin-right: 10px;
     display: inline-block;
-    fill: currentColor;
+    fill: AFB1B8;
 }
-
+.svg.contact-icon:hover,
+.svg.contact-icon:focus {
+color: var(--line-color);
+}
 .motto {
     background-image: linear-gradient(to right,
             rgba(47, 48, 58, 0.40),
@@ -611,12 +614,12 @@ font-size: 14px;
 }
 svg.icon {
     display: inline-block;
-    fill: var(--line-color);
+    fill: AFB1B8;
 }
 
 svg.icon-social {
     display: inline-block;
-    fill: var(--line-color);
+    fill: AFB1B8;
 }
 .icon-social:hover {
     fill: var(--line-color);
