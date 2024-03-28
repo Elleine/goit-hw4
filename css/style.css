@@ -197,7 +197,7 @@ color: var(--line-color);
 }
 .motto {
     background-image: linear-gradient(to right,
-            rgba(47, 48, 58, 0.40),
+            rgba(155, 157, 172, 0.4),
             rgba(47, 48, 58, 0.40)), url("../images/overlay.jpg");
     background-size: cover;
         background-position: center;
