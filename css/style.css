@@ -3,9 +3,11 @@
     margin: 0;
     scroll-behavior: smooth;
 }
+
 body {
     font-family: "Roboto", sans-serif;
     color: #2e2f42;
+ 
 }
 
 li {
@@ -609,10 +611,12 @@ font-size: 14px;
 }
 svg.icon {
     display: inline-block;
+    fill: var(--line-color);
 }
 
 svg.icon-social {
     display: inline-block;
+    fill: var(--line-color);
 }
 .icon-social:hover {
     fill: var(--line-color);
