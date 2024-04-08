@@ -191,8 +191,8 @@ color: var(--line-color);
     display: inline-block;
     fill: #AFB1B8;
 }
-.svg contact-icon:hover,
-.svg contact-icon:focus {
+.svg.contact-icon:hover,
+.svg.contact-icon:focus {
 color: var(--line-color);
 }
 .motto {
