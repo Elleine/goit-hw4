@@ -611,7 +611,8 @@ font-size: 14px;
 .social-links-footer:hover,
 .social-links-footer:focus {
    fill: var(--line-color);
-    background-color: #FFF;
+
+
 }
 .footer-ul svg:hover,
 .footer-ul svg:focus {
@@ -628,7 +629,7 @@ svg.icon-social {
     fill: #AFB1B8;
 }
 .icon-social:hover {
-    fill: var(--line-color);
+    fill: #fff;
 }
 
 .social-items:not(:last-child) {
@@ -654,11 +655,11 @@ svg.icon-social {
 .social-links:hover,
 .social-links:focus {
     background-color: var(--line-color);
-    color: #fff;
+    fill: #fff;
 }
 .svg:hover,
 .svg:focus {
-    fill: var(--line-color);
+    fill: #fff;
    
 }
 .footer-social-title {
