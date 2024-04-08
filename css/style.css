@@ -183,8 +183,9 @@ color: var(--line-color);
 
 .contacts-item-tel:hover,
 .contacts-item-tel:focus {
-    color: var(--line-color);
+   fill: var(--line-color);
 }
+
 
 .svg.contact-icon {
     margin-right: 10px;
@@ -193,11 +194,11 @@ color: var(--line-color);
 }
 .svg.contact-icon:hover,
 .svg.contact-icon:focus {
-color: var(--line-color);
+fill: var(--line-color);
 }
 .contacts-item-mail:hover,
 contacts-item-mail:focus
-{color: var(--line-color);}
+{fill: var(--line-color);}
 
 .motto {
     background-image: linear-gradient(to right,
@@ -609,12 +610,13 @@ font-size: 14px;
 }
 .social-links-footer:hover,
 .social-links-footer:focus {
-    background-color: var(--line-color);
-    color: #FFF;
+   fill: var(--line-color);
+    background-color: #FFF;
 }
 .footer-ul svg:hover,
 .footer-ul svg:focus {
-    fill: var(--line-color);
+    fill: #FFF;
+     background-color: var(--line-color);
 }
 svg.icon {
     display: inline-block;
@@ -656,8 +658,8 @@ svg.icon-social {
 }
 .svg:hover,
 .svg:focus {
-    background-color: var(--line-color);
-    color: #fff;
+    fill: var(--line-color);
+   background-color: #fff;
    
 }
 .footer-social-title {
