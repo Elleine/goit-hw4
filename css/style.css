@@ -178,7 +178,7 @@ color: var(--line-color);
 }
 .contacts-item-mail:hover,
 .contacts-item-mail:focus {
-    color: var(--line-color);
+    fill: var(--line-color);
 }
 
 .contacts-item-tel:hover,
@@ -656,7 +656,8 @@ svg.icon-social {
 }
 .svg:hover,
 .svg:focus {
-    color: var(--line-color);
+    background-color: var(--line-color);
+    color: #fff;
    
 }
 .footer-social-title {
