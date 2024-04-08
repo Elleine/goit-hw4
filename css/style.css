@@ -195,6 +195,10 @@ color: var(--line-color);
 .svg.contact-icon:focus {
 color: var(--line-color);
 }
+.contacts-item-mail:hover,
+contacts-item-mail:focus
+{color: var(--line-color);}
+
 .motto {
     background-image: linear-gradient(to right,
             rgba(155, 157, 172, 0.4),
