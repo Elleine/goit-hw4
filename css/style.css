@@ -656,8 +656,8 @@ svg.icon-social {
 }
 .svg:hover,
 .svg:focus {
-    background-color: var(--line-color);
-    color: #fff;
+    color: var(--line-color);
+   
 }
 .footer-social-title {
 color: #fff;
