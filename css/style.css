@@ -659,7 +659,7 @@ svg.icon-social {
 }
 .svg:hover,
 .svg:focus {
-    fill: #fff;
+    fill: var(--line-color);
    
 }
 .footer-social-title {
