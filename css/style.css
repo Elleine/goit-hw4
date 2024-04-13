@@ -334,6 +334,7 @@ svg.advants {
 .team-photos {
     display: flex;
     gap: 30px;
+    backgroundcolor: #fff;
 
 }
 
