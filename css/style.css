@@ -366,8 +366,9 @@ color: var(--text-color);
     margin-bottom: 32px;
     background-color: var(--bg-color);
 }
-.social-items-ul-li{
+.icon-social{
     background-color: #FFF;
+    fill: #AFB1B8;
 }
 
 
