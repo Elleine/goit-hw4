@@ -620,10 +620,7 @@ font-size: 14px;
     fill: #FFF;
      background-color: var(--line-color);
 }
-svg.icon {
-    display: inline-block;
-    fill: #AFB1B8;
-}
+
 
 svg.icon-social {
     display: inline-block;
