@@ -627,7 +627,7 @@ svg.icon {
 
 svg.icon-social {
     display: inline-block;
-    fill: #AFB1B8;
+    fill: #fff;
 }
 .icon-social:hover {
     fill: #fff;
