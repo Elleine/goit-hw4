@@ -365,7 +365,9 @@ color: var(--text-color);
     margin-bottom: 32px;
     background-color: var(--bg-color);
 }
-
+.social-items li{
+    background-color: #FFF;
+}
 
 
 .team-photo{
