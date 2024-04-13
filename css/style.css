@@ -367,9 +367,9 @@ color: var(--text-color);
     background-color: var(--bg-color);
 }
 .icon-social{
-    background-color: #FFF;
     fill: #AFB1B8;
 }
+.social-items{backgroundcolor: #fff;}
 
 
 .team-photo{
