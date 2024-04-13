@@ -501,6 +501,7 @@ color: var(--text-color);
 
 .client-icon {
     display: flex;
+    fill: #AFB1B8;
 }
 .icon-client:hover {
     fill: var(--line-color);
@@ -670,6 +671,7 @@ color: #fff;
     display: flex;
         list-style: none;
         padding: 0;
+    fill: #fff;
 }
 
 .social-links-footer {
