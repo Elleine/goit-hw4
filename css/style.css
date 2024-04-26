@@ -366,6 +366,13 @@ color: var(--text-color);
     margin-bottom: 32px;
     background-color: var(--bg-color);
 }
+.team-photos-article li {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    margin-bottom: 32px;
+    background-color: var(--bg-color);
+}
 .icon-social{
     fill: #AFB1B8;
 }
