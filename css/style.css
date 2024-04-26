@@ -329,13 +329,13 @@ svg.advants {
    
     padding-top: 94px;
     padding-bottom: 94px;
-    backgroundcolor: #F5F4FA;
+    background-color: #F5F4FA;
 }
 
 .team-photos {
     display: flex;
     gap: 30px;
-    backgroundcolor: #fff;
+    background-color: #fff;
 
 }
 
